@@ -1,0 +1,38 @@
+.navbar{
+	background-color:#11113a;
+
+}
+.job{
+	margin-left:20%;
+	font-family: fantasy;
+	font-weight: 1px;
+	color:red;
+	padding-top:6%;
+
+	
+}
+table {
+	margin-top:7%;
+	margin-left:20%;
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 60%;
+}
+
+td, th {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+}
+
+tr:nth-child(even) {
+  background-color: #dddddd;
+}
+.wel{
+	margin-top: 15px;
+	color:white;
+}
+.image{
+	width:100px;
+	height:100px;
+}

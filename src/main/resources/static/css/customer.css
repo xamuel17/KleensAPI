@@ -1,0 +1,52 @@
+.navbar{
+	background-color:#11113a;
+
+}
+.job{
+	margin-left:40%;
+	
+	
+	margin-top:5%;
+	
+	font-family: "Trebuchet MS", Helvetica, sans-serif;
+font-size: 28px;
+letter-spacing: 0.4px;
+word-spacing: 2px;
+color: #FF4B3C;
+font-weight: 700;
+text-decoration: none;
+font-style: normal;
+font-variant: small-caps;
+text-transform: capitalize;
+	
+	
+}
+.add{
+	  padding-left: 150px;
+	  align-content:left;
+}
+table {
+	
+	margin-left:1%;
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 60%;
+}
+
+td, th {
+  border: 1px solid #11113a;
+  text-align: center;
+  padding: 8px;
+}
+
+tr:nth-child(even) {
+  background-color: #dddddd;
+}
+.wel{
+	margin-top: 15px;
+	color:white;
+}
+.thead-dark{
+	color:white;
+	 background-color: #11113a;
+}
